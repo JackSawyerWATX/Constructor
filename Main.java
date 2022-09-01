@@ -4,7 +4,7 @@ public class Main { // Create a Main class
 
     // The constructor for the Main class
     public Main() {
-        x = "Jon"; // this is the value for the class attribute
+        x = "Jon WTF"; // this is the value for the class attribute
     }
 
     public static void main(String[] args) {
